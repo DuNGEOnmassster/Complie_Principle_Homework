@@ -1,0 +1,4 @@
+/Users/normanz/Desktop/Homework/Compilation_Principle/Experiment/ex1/test/src/homework/problem5/cmake-build-debug/CMakeFiles/main.cpp.dir
+/Users/normanz/Desktop/Homework/Compilation_Principle/Experiment/ex1/test/src/homework/problem5/cmake-build-debug/CMakeFiles/hello.dir
+/Users/normanz/Desktop/Homework/Compilation_Principle/Experiment/ex1/test/src/homework/problem5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/normanz/Desktop/Homework/Compilation_Principle/Experiment/ex1/test/src/homework/problem5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
