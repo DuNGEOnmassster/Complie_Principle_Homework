@@ -1,0 +1,3 @@
+C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug/CMakeFiles/calculator-flex-bison.dir
+C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug/CMakeFiles/rebuild_cache.dir

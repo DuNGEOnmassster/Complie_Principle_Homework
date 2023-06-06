@@ -1,0 +1,27 @@
+# ninja log v5
+39	473	7060365630388563	CMakeFiles/calculator-flex-bison.dir/genIR.cpp.obj	85acfc61b5eec15c
+1443	1745	7060365643105210	calculator-flex-bison.exe	16cd57ff2f61ab75
+28	1443	7060365640058532	CMakeFiles/calculator-flex-bison.dir/main.cpp.obj	77cf091ec4a72da0
+252	1240	7051553229823054	CMakeFiles/calculator-flex-bison.dir/symbol.cpp.obj	e8b2bedf77898fe1
+8	186	7059491421106539	C:/Users/Administrator/Desktop/calculator-flex-bison-20230507/calculator-flex-bison/calculator_lex.h	e8cdf19faac905cb
+17	471	7060365630358643	CMakeFiles/calculator-flex-bison.dir/calculator_yacc.cpp.obj	3ca50d4adf0ac88f
+31	667	7060365632337254	CMakeFiles/calculator-flex-bison.dir/graph.cpp.obj	c806f7cb4b05ecd4
+36	499	7060365630667815	CMakeFiles/calculator-flex-bison.dir/IRInst.cpp.obj	77573fd9d0391be5
+24	530	7060365630986961	CMakeFiles/calculator-flex-bison.dir/expr.cpp.obj	c231c88aaeb275ff
+458	8285	7059490136199593	CMakeFiles/calculator-flex-bison.dir/IRCode.cpp.obj	58099af84cf13ca
+21	542	7060365631066744	CMakeFiles/calculator-flex-bison.dir/ast.cpp.obj	c04d29c022f0386e
+187	325	7059491422811758	CMakeFiles/calculator-flex-bison.dir/calculator_lex.cpp.obj	3fbb75c381aa27fe
+20	433	7059490057421066	C:/Users/Administrator/Desktop/calculator-flex-bison-20230507/calculator-flex-bison/calculator_yacc.h	1a0f101af0119fa4
+8	186	7059491421106539	C:/Users/Administrator/Desktop/calculator-flex-bison-20230507/calculator-flex-bison/calculator_lex.cpp	e8cdf19faac905cb
+245	1094	7051553228277173	CMakeFiles/calculator-flex-bison.dir/common.cpp.obj	b96bead9160ed368
+20	433	7059490057421066	C:/Users/Administrator/Desktop/calculator-flex-bison-20230507/calculator-flex-bison/calculator_yacc.cpp	1a0f101af0119fa4
+18	636	7060924537481693	CMakeFiles/calculator-flex-bison.dir/calculator_yacc.cpp.obj	3ca50d4adf0ac88f
+50	645	7060924537581419	CMakeFiles/calculator-flex-bison.dir/genIR.cpp.obj	85acfc61b5eec15c
+43	647	7060924537591394	CMakeFiles/calculator-flex-bison.dir/IRInst.cpp.obj	77573fd9d0391be5
+47	683	7060924537960419	CMakeFiles/calculator-flex-bison.dir/IRCode.cpp.obj	58099af84cf13ca
+27	723	7060924538369318	CMakeFiles/calculator-flex-bison.dir/expr.cpp.obj	c231c88aaeb275ff
+23	730	7060924538429153	CMakeFiles/calculator-flex-bison.dir/ast.cpp.obj	c04d29c022f0386e
+40	746	7060924538588728	CMakeFiles/calculator-flex-bison.dir/symbol.cpp.obj	e8b2bedf77898fe1
+35	885	7060924539994964	CMakeFiles/calculator-flex-bison.dir/graph.cpp.obj	c806f7cb4b05ecd4
+31	1723	7060924548313767	CMakeFiles/calculator-flex-bison.dir/main.cpp.obj	77cf091ec4a72da0
+1723	2022	7060924551354382	calculator-flex-bison.exe	16cd57ff2f61ab75

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\calculator_lex.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\calculator_lex.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/calculator_lex.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/calculator_lex.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\calculator_yacc.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\calculator_yacc.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/calculator_yacc.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/calculator_yacc.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\ast.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\ast.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/ast.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/ast.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\expr.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\expr.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/expr.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/expr.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\main.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\main.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/main.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\graph.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\graph.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/graph.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\common.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\common.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/common.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/common.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\symbol.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\symbol.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/symbol.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/symbol.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\IRInst.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\IRInst.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/IRInst.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/IRInst.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\IRCode.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\IRCode.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/IRCode.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/IRCode.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admina/Desktop/calculator-flex-bison-new/cmake-build-debug",
+  "command": "D:\\CompilerTools\\msys64\\mingw64\\bin\\clang++.exe -DBISON_USE -DFLEX_USE @CMakeFiles/calculator-flex-bison.dir/includes_CXX.rsp -g -std=c++17 -Wall -Werror -Wno-write-strings -Wno-unused-function -o CMakeFiles\\calculator-flex-bison.dir\\genIR.cpp.obj -c C:\\Users\\Admina\\Desktop\\calculator-flex-bison-new\\genIR.cpp",
+  "file": "C:/Users/Admina/Desktop/calculator-flex-bison-new/genIR.cpp",
+  "output": "CMakeFiles/calculator-flex-bison.dir/genIR.cpp.obj"
+}
+]
