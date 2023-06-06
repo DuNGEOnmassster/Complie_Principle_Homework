@@ -1,0 +1,14 @@
+a = assign 2.33
+b = assign 5
+%t0 = add a, b
+c = assign %t0
+call void @printI(i32 c)
+%t1 = sub b, 4
+d = assign %t1
+call void @printI(i32 d)
+%t2 = mul a, b
+e = assign %t2
+call void @printI(i32 e)
+%t3 = div b, 2.5
+f = assign %t3
+call void @printI(i32 f)
